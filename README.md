@@ -40,9 +40,9 @@ and make that folder as virtual host in wamp .
 
 5. Import loginsystem.sql file(given inside the zip package in SQL file folder)
 
-6.Run the script http://localhost/loginsystem (frontend)
+6.Run the script http://localhost/loginsystem (frontend)--->**for normal users**
 
-7. For admin Panel http://localhost/loginsystem/admin
+7. For admin Panel http://localhost/loginsystem/admin ---->**for  admin login**
 
 Credential for admin panel :
 
